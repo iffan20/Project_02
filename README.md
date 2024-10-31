@@ -46,19 +46,19 @@ This study employs the following methodology to predict housing price :
 
 **1. Data Cleaning and EDA** 
 
-Handle missing values then analyze patterns and relationships using visualizations in [`EDA.ipynb`](./Code/Cleaning_Data.ipynb).
+Handle missing values then analyze patterns and relationships using visualizations in [`EDA.ipynb`](./Code/1.Cleaning_Data.ipynb).
 
 **2. Preprocessing** 
 
-Transform data by encoding categorical features and polynomial features to prepare for modeling in [`Preprocess.ipynb`](./Code/Preprocess.ipynb).
+Transform data by encoding categorical features and polynomial features to prepare for modeling in [`Preprocess.ipynb`](./Code/2.Preprocess.ipynb).
 
 **3. Modeling & Benchmarks** 
 
-Train and tune multiple models, evaluating each against a baseline to select the best model for the task in [`Model_Benchmarks.ipynb`](./Code/Model_Benchmarks.ipynb).
+Train and tune multiple models, evaluating each against a baseline to select the best model for the task in [`Model_Benchmarks.ipynb`](./Code/3.Model_Benchmarks.ipynb).
 
 **4. Evaluation and Conceptual Understanding** 
 
-Assess model accuracy and interpret results to ensure the model aligns with project goals, summarized in [`Evaluation.ipynb`](./Code/Best_Model.ipynb).
+Assess model accuracy and interpret results to ensure the model aligns with project goals, summarized in [`Evaluation.ipynb`](./Code/4.Evaluate_Model.ipynb).
 
 ---
 
