@@ -100,6 +100,6 @@ To support the findings, the following figures are included:
 
 ---
 
-### Futher Work
+### Further Work
 
 Further research will explore additional variables that might influence housing prices in relation to station distance.
