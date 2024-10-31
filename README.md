@@ -72,7 +72,7 @@ This analysis yields insights into how station proximity relates to housing pric
 
 | Station                | price (bath) / 100 meters closer  
 |-----------------------|-----------|
-| `MRT Phetchaburi	`                  |      353,425       |
+| `MRT Phetchaburi`                  |      353,425       |
 | `MRT Sam Yan`              | 312,668    |
 | `BTS Nana`              | 282,391    |
 | `BTS Phra Khanong`           | 267,761    |
